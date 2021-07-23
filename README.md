@@ -1,0 +1,2 @@
+# Practice-on-Open-Source-Computer-Vision-Library-Open-CV-
+This repository contains the codes used for practicing several image operations such as pixel manipulation and filtering, blurring, dilation, erosion, scaling and rotating images. Also object detection such as segmentation, skin detection, contour object detection, canny edge detection were also performed. Lastly, face and feature detection using template matching and Haar cascading was performed. All of this was done using the Open Source Computer Vision Library (Open CV)
